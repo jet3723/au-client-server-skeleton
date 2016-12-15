@@ -1,6 +1,6 @@
 {
   "name": "au-client-server-skel",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A skeleton aurelia web application using https://github.com/Vheissu/aurelia-starter-node as the basis.",
   "keywords": ["Aurelia", "Client Server", "Web Application"],
   "homepage":"",
