@@ -19,7 +19,7 @@ A skeleton application that demonstrates how to integrate an Aurelia Client with
   * **node server.js**
 
 ### Helper Script
-**create-aurelia-client.sh** can be used to create a default Aurelia client app using the [Aurelia CLI](https://github.com/aurelia/cli). The generated client is moved into the Client Server Skeleton's **client** directory.
+**create-aurelia-client.sh** is a script for Linux or Mac OS that can be used to create a default Aurelia client app using the [Aurelia CLI](https://github.com/aurelia/cli). If you have not installed this then you should do that now. The generated client is moved into the Client Server Skeleton's **client** directory. 
 
 **Usage:** ./create-aurelia-client.sh <aurelia-app-name>
    where: <aurelia-app-name> is the name of the app that is entered when the CLI is invoked by the **create-aurelia-client.sh** script.
