@@ -4,6 +4,8 @@ A skeleton application that demonstrates how to integrate an Aurelia Client with
 The Client is either generated or supplied based upon how the recipe below is followed.
 
 ## A Recipe for the Client Server Skeleton Application
+This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed.
+
 1. Clone this repository: **git clone https://github.com/jet3723/au-client-server-skeleton.git**
 2. Add or Create the Aurelia Client application
   Do one of the following steps:
