@@ -1,7 +1,7 @@
 # au-client-server-skeleton
 A skeleton application that demonstrates how to integrate an Aurelia Client with a Node server. The skeleton starts out with a basic Node JS Server that uses Express and a number of other Node packages. The server's routes are setup to either serve the Aurelia client application starting at /index.html or to serve web services at the URI **/api/**. There is a default URL web service API implemented at **/api/testme**. The server is located in the directory **/server**. The Client is either generated or supplied based upon how the recipe below is followed.
 
-(Here)[https://github.com/jet3723/au-client-skeleton.git] is a client that I used to test the **au-client-server-skelton** application. Try this client if you don't have a client or dont' want to create a client. See the **tutorials** to see a step by step recipe for including a client that you already have.
+[Here](https://github.com/jet3723/au-client-skeleton.git) is a client that I used to test the **au-client-server-skelton** application. Try this client if you don't have a client or dont' want to create a client. See the **tutorials** to see a step by step recipe for including a client that you already have.
 
 While this page provides a quick and dirty description of how to get the skeleton application up and running, I've provided detailed tutorial topics in the [Tutorials](https://github.com/jet3723/au-client-server-skeleton/wiki/Tutorials).
 
