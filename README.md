@@ -2,7 +2,7 @@
 A skeleton application that demonstrates how to integrate an Aurelia Client with a Node server. The skeleton starts out with a basic Node JS Server that uses Express and a number of other Node packages. The server's routes are setup to either serve the Aurelia client application starting at /index.html or to serve web services at the URI **/api/**. There is a default URL web service API implemented at **/api/testme**. The server is located in the directory **/server**. The Client is either generated or supplied based upon how the recipe below is followed.
 
 ## Acknowledgements
-If you want to learn Aurelia and how web apps can be put together, you have to follow @AbolishOf (Dwayne Charrington) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. 
+If you want to learn Aurelia and how web apps can be put together, you have to follow [Dwayne Charrington](https://twitter.com/AbolitionOf) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. 
 
 ## About Me
 While not a prolific poster you can follow on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
