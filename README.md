@@ -1,11 +1,11 @@
 # au-client-server-skeleton
-A skeleton application that demonstrates how to integrate an Aurelia Client with a Node server. The skeleton starts out with a basic Node JS Server that uses Express and a number of other Node packages. The server's routes are setup to either serve the Aurelia client application starting at /index.html or to serve web services at the URI **/api/**. There is a default URL web service API implemented at **/api/testme**. The server is located in the directory **/server**. The Client is either generated or supplied based upon how the recipe below is followed.
+A skeleton application that demonstrates how to integrate an Aurelia Client with a Node server. 
 
-## Acknowledgements
-If you want to learn Aurelia and how web apps can be put together, you have to follow [Dwayne Charrington](https://twitter.com/AbolitionOf) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. But this task would be much harder if it were not for people like Dwayne and others that share knowledge.
+[Acknowlegements](#acknowledgements)
+[About Me](#aboutme)
 
-## About Me
-While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
+## Overview
+The skeleton starts out with a basic Node JS Server that uses Express and a number of other Node packages. The server's routes are setup to either serve the Aurelia client application starting at /index.html or to serve web services at the URI **/api/**. There is a default URL web service API implemented at **/api/testme**. The server is located in the directory **/server**. The Client is either generated or supplied based upon how the recipe below is followed.
 
 ## A Companion Client Application
 [Here](https://github.com/jet3723/au-client-skeleton.git) is a client that I used to test the **au-client-server-skelton** application. Try this client if you do not have a client or do not want to create a client. See the **tutorials** to see a step by step recipe for including a client that you already have.
@@ -41,4 +41,8 @@ This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) havin
 **Usage:** ./create-aurelia-client.sh <aureliaAppName>
    where: <aureliaAppName> is the name of the app that is entered when the CLI is invoked by the **create-aurelia-client.sh** script. Note the application name should consist of alpha-numeric characters only.
    
+## Acknowledgements <a name="acknowledge"></a>
+If you want to learn Aurelia and how web apps can be put together, you have to follow [Dwayne Charrington](https://twitter.com/AbolitionOf) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. But this task would be much harder if it were not for people like Dwayne and others that share knowledge.
 
+## About Me <a name="aboutme"></a>
+While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
