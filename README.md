@@ -18,8 +18,7 @@ While this page provides a quick and dirty description of how to get the skeleto
 This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed.
 
 1. Clone this repository: **git clone https://github.com/jet3723/au-client-server-skeleton.git**
-2. Add or Create the Aurelia Client application
-  Do one of the following steps:
+2. Add or Create the Aurelia Client application. Do just one of the following steps:
   * Copy an existing Aurelia application into the directory **./client**. [This](https://github.com/jet3723/au-client-skeleton.git) client will do nicely.
   * Generate a default Aurelia Client using the **Helper Script** described below.
 3. Finish the Server Installation by executing the following commands:
