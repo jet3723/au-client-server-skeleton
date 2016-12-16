@@ -13,7 +13,7 @@ While not a prolific poster you can follow me on [Twitter](https://twitter.com/j
 ## Tutorials
 While this page provides a quick and dirty description of how to get the skeleton application up and running, I've provided detailed tutorial topics in the [Tutorials](https://github.com/jet3723/au-client-server-skeleton/wiki/Tutorials).
 
-### And Finally....
+# And Finally....
 ## A Recipe for the Client Server Skeleton Application
 This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed.
 
