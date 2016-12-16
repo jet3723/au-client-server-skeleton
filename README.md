@@ -7,10 +7,13 @@ If you want to learn Aurelia and how web apps can be put together, you have to f
 ## About Me
 While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
 
+## A Companion Client Application
 [Here](https://github.com/jet3723/au-client-skeleton.git) is a client that I used to test the **au-client-server-skelton** application. Try this client if you do not have a client or do not want to create a client. See the **tutorials** to see a step by step recipe for including a client that you already have.
 
+## Tutorials
 While this page provides a quick and dirty description of how to get the skeleton application up and running, I've provided detailed tutorial topics in the [Tutorials](https://github.com/jet3723/au-client-server-skeleton/wiki/Tutorials).
 
+### And Finally....
 ## A Recipe for the Client Server Skeleton Application
 This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed.
 
