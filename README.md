@@ -1,7 +1,8 @@
 # au-client-server-skeleton
 A skeleton application that demonstrates how to integrate an Aurelia Client with a Node server. 
 
-[Acknowlegements](#acknowledgements)
+[Acknowlegements](#acknowledgeme)
+
 [About Me](#aboutme)
 
 ## Overview
