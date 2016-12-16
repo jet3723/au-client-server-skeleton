@@ -23,7 +23,7 @@ This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) havin
   * Generate a default Aurelia Client using the **Helper Script** described below.
 3. Build the client
   * **cd ./client**
-  * **au run**
+  * **au run** -- works with the a generated client or the client skeleton.
 4. Finish the Client Installation by executing the following command:
   * **mv ./client/index.html ./server/views/index.html**
 5. Finish the Server Installation by executing the following commands:
