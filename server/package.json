@@ -2,9 +2,13 @@
   "name": "au-client-server-skel",
   "version": "0.1.0",
   "description": "A skeleton aurelia web application using https://github.com/Vheissu/aurelia-starter-node as the basis.",
-  "keywords": ["Aurelia", "Client Server", "Web Application"],
-  "homepage":"",
-  "bugs":{
+  "keywords": [
+    "Aurelia",
+    "Client Server",
+    "Web Application"
+  ],
+  "homepage": "",
+  "bugs": {
     "url": "",
     "email": ""
   },
@@ -22,5 +26,17 @@
     "ejs": "^2.5.5",
     "morgan": "^1.7.0",
     "serve-favicon": "^2.3.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.11",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.2",
+    "touch": "^1.0.0"
   }
 }
