@@ -5,7 +5,7 @@ A skeleton application that demonstrates how to integrate an Aurelia Client with
 If you want to learn Aurelia and how web apps can be put together, you have to follow [Dwayne Charrington](https://twitter.com/AbolitionOf) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. 
 
 ## About Me
-While not a prolific poster you can follow on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
+While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
 
 [Here](https://github.com/jet3723/au-client-skeleton.git) is a client that I used to test the **au-client-server-skelton** application. Try this client if you do not have a client or do not want to create a client. See the **tutorials** to see a step by step recipe for including a client that you already have.
 
