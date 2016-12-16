@@ -20,7 +20,7 @@ This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) havin
 1. Clone this repository: **git clone https://github.com/jet3723/au-client-server-skeleton.git**
 2. Add or Create the Aurelia Client application
   Do one of the following steps:
-  * Copy an existing Aurelia application into the directory **./client**
+  * Copy an existing Aurelia application into the directory **./client**. [This](https://github.com/jet3723/au-client-skeleton.git) client will do nicely.
   * Generate a default Aurelia Client using the **Helper Script** described below.
 3. Finish the Server Installation by executing the following commands:
   * **cd ./server**
