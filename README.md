@@ -21,14 +21,14 @@ This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) havin
 2. Add or Create the Aurelia Client application. Do just one of the following steps:
   * Copy an existing Aurelia application into the directory **./client**. [This](https://github.com/jet3723/au-client-skeleton.git) client will do nicely.
   * Generate a default Aurelia Client using the **Helper Script** described below.
-3. Finish the Server Installation by executing the following commands:
-  * **cd ./server**
-  * **npm install**
-4. Build the client
+3. Build the client
   * **cd ./client**
   * **au run**
-5. Finish the Client Installation by executing the following command:
+4. Finish the Client Installation by executing the following command:
   * **mv ./client/index.html ./server/views/index.html**
+5. Finish the Server Installation by executing the following commands:
+  * **cd ./server**
+  * **npm install**
 
 ## Run the Server
 - Execute the commands
