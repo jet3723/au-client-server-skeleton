@@ -46,4 +46,8 @@ This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) havin
 If you want to learn Aurelia and how web apps can be put together, you have to follow [Dwayne Charrington](https://twitter.com/AbolitionOf) on Twitter. This skeleton app is based upon one that he created [Aurelia Starter Node](https://github.com/Vheissu/aurelia-starter-node.git). My goal in creating my app and tutorials is to fill in details that are not obvious to new web developers and perhaps demonstrate some of the mechanics associated with a full stack development. But this task would be much harder if it were not for people like Dwayne and others that share knowledge.
 
 ## About Me <a name="aboutme"></a>
-While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/) or [LinkedIn](https://www.linkedin.com/in/jimtaylor63). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
+While not a prolific poster you can follow me on [Twitter](https://twitter.com/jamtns3435/), [LinkedIn](https://www.linkedin.com/in/jimtaylor63), or on my website [CoderProcess](http://coderprocess.com). I've been developing software for 30+ years and now I'm dabbling in javascript based web applications.
+
+## License
+**MIT**
+
