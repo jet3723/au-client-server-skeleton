@@ -4,6 +4,8 @@ const spawn = require('child_process').spawn;
 var browserSync = require('browser-sync').create();
 var nodemon = require('gulp-nodemon');
 var watch = require('gulp-watch');
+var util = require('gulp-util');
+var colors = require('colors');
 
 // By default start the server
 gulp.task('default', ['browser-sync'], function () {
@@ -36,9 +38,14 @@ function bundletask(v) {
 	// execute the au build
 	const bundle = spawn('au', ['build','--env','dev']);
 
-	bundle.stderr.on('data', (data) => {
-  	console.log(`stderr: ${data}`);
+  // catch any errors reported on the output
+	// and print them to the server log
+	bundle.stdout.on('data', (data) => {
+		if (data.includes("Error") == true) {
+			console.error(colors.red(data.toString('utf8')), 1);
+		}
 	});
+	
 
 	// go back to the server directory
 	process.chdir(cwd);
