@@ -64,7 +64,7 @@ gulp.task('bundle', function() {
 // and watch files for change using browser-sync.
 gulp.task('browser-sync', ['nodemon'], function() {
 	browserSync.init(null, {
-		proxy: "http://localhost:9000",
+		proxy: "http://localhost:8000",
         files: ["**/*.*", "../client/scripts/app-bundle.js", "../client/scripts/vendor-bundle.js"],
         browser: "safari",
         port: 7000,

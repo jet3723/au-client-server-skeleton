@@ -28,7 +28,7 @@ app.use(allowCrossDomain);
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, '../client')));
 
-app.set('port', process.env.PORT || 9000);
+app.set('port', process.env.PORT || 8000);
 
 var server = app.listen(app.get('port'), function() {
     console.log('Express server listening on port ' + server.address().port);
