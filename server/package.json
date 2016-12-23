@@ -2,6 +2,10 @@
   "name": "au-client-server-skel",
   "version": "0.1.0",
   "description": "A skeleton aurelia web application using https://github.com/Vheissu/aurelia-starter-node as the basis.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jet3723/au-client-server-skeleton"
+  },
   "keywords": [
     "Aurelia",
     "Client Server",
@@ -10,10 +14,10 @@
   "homepage": "",
   "bugs": {
     "url": "",
-    "email": ""
+    "email": "coderprocess@gmail.com"
   },
   "license": "MIT",
-  "author": "Jim Taylor <jet3723@gmail.com>",
+  "author": "Jim Taylor <coderprocess@gmail.com>",
   "main": "server.js",
   "scripts": {
     "test": "gulp test",
