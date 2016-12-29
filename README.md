@@ -14,9 +14,19 @@ The skeleton starts out with a basic Node JS Server that uses Express and a numb
 ## Tutorials
 While this page provides a quick and dirty description of how to get the skeleton application up and running, I've provided detailed tutorial topics in the [Tutorials](https://github.com/jet3723/au-client-server-skeleton/wiki/Tutorials).
 
+## Machine Setup
+This development will require NodeJS and NPM.
+
+Install NodeJS version 4.x or above.
+You can download it here https://nodejs.org/en/.
+
+Once you have the prerequisites installed, you can install the Aurelia CLI itself. From the command line, use npm to install the CLI globally:
+
+npm install aurelia-cli -g
+
 # And Finally....
 ## A Recipe for the Client Server Skeleton Application
-This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed.
+This recipe depends upon the [Aurelia CLI](https://github.com/aurelia/cli) having been previously installed. 
 
 1. Clone this repository: **git clone https://github.com/jet3723/au-client-server-skeleton.git**
 2. Add or Create the Aurelia Client application. Do just one of the following steps:
