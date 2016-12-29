@@ -41,7 +41,7 @@ function bundletask(v) {
   // catch any errors reported on the output
 	// and print them to the server log
 	bundle.stdout.on('data', (data) => {
-		if (data.includes("Error") == true) {
+		if (data.indexOf("Error") != -1) {
 			console.error(colors.red(data.toString('utf8')), 1);
 		}
 	});
